@@ -1,0 +1,6 @@
+{
+  "name": "SoundSync Hub - PC to Phone Audio & Remote",
+  "description": "Stream PC and YouTube audio directly to your phone via Wi-Fi with Bluetooth headphone support, remote volume & playback control, and screen keep-awake.",
+  "requestFramePermissions": ["display-capture", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
